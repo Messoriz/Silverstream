@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Film
+comment1.params=title\ year\ genre\ rating
+comment1.target=Film(java.lang.String,\ int,\ java.util.ArrayList,\ double)
+numComments=2

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=name\ password\ adult\ administrator
+comment1.target=User(java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+comment2.params=
+comment2.target=void\ setAdministrator()
+comment3.params=
+comment3.target=boolean\ isAdministrator()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=boolean\ isAdult()
+comment6.params=
+comment6.target=java.lang.String\ getPassword()
+numComments=7
